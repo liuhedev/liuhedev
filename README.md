@@ -27,9 +27,6 @@
   <a href="https://my.feishu.cn/wiki/space/7575417947481443290?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home">
     <img src="https://img.shields.io/badge/Feishu-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="Feishu Wiki" />
   </a>
-  <a href="https://www.xiaohongshu.com/user/profile/your_user_id">
-    <img src="https://img.shields.io/badge/Xiaohongshu-龙虾哥-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
-  </a>
 </div>
 
 ---
