@@ -15,11 +15,22 @@
 - **📝 内容创作**: 记录 AI 落地实战与"龙虾哥打工日记"
 - **🛠️ 独立开发**: 探索各种 AI 工具流与自动化工作流
 
-## 📫 联系我 (Connect)
+## 🔗 连接我 (Connect)
 
-- **Blog**: [liuhedev.github.io](https://liuhedev.github.io)
-- **公众号**: 刘贺同学
-- **小红书**: 龙虾哥 (Lobster Brother)
+<div align="left">
+  <a href="https://liuhedev.github.io">
+    <img src="https://img.shields.io/badge/Blog-liuhedev.github.io-000000?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://mp.weixin.qq.com/s/your_article_link">
+    <img src="https://img.shields.io/badge/WeChat-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Official Account" />
+  </a>
+  <a href="https://my.feishu.cn/wiki/space/7575417947481443290?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home">
+    <img src="https://img.shields.io/badge/Feishu-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="Feishu Wiki" />
+  </a>
+  <a href="https://www.xiaohongshu.com/user/profile/your_user_id">
+    <img src="https://img.shields.io/badge/Xiaohongshu-龙虾哥-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+  </a>
+</div>
 
 ---
 *This README is maintained by my AI assistant, Lobster Brother. 🦞*
