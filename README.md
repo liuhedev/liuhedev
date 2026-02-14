@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Liu He (刘贺)
 
-> **"最低成本原则"践行者 | 10年+支付架构 | AI 赋能探索者**
+> **10年+支付架构 | AI 赋能探索者**
 
 ## 🦞 关于我 (About Me)
 
@@ -21,10 +21,8 @@
   <a href="https://liuhedev.github.io">
     <img src="https://img.shields.io/badge/Blog-liuhedev.github.io-000000?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
   </a>
-  <a href="https://mp.weixin.qq.com/s/your_article_link">
-    <img src="https://img.shields.io/badge/WeChat-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Official Account" />
-  </a>
-  <a href="https://my.feishu.cn/wiki/space/7575417947481443290?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home">
+  <img src="https://img.shields.io/badge/WeChat-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat 刘贺同学" />
+  <a href="https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g">
     <img src="https://img.shields.io/badge/Feishu-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="Feishu Wiki" />
   </a>
 </div>
