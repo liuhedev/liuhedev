@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/博客-刘贺同学-000000?style=for-the-badge&logo=github&logoColor=white" alt="博客" />
   </a>
   <img src="https://img.shields.io/badge/微信公众号-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" />
+</div>
+
+<div align="left">
+  <img src="wechat-qrcode.png" width="400" alt="微信公众号二维码" />
   <a href="https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g">
     <img src="https://img.shields.io/badge/飞书-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="飞书知识库" />
   </a>
