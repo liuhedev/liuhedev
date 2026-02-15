@@ -1,29 +1,35 @@
-# 👋 Hello, I'm Liu He (刘贺)
+# 👋 你好，我是刘贺同学
 
-> **10年+支付架构 | AI 赋能探索者**
+> 10年+ 全栈开发工程师 | 支付系统研发老兵 | 专注 AI 工程化实践与落地场景
 
-## 🦞 关于我 (About Me)
+## 核心理念
 
-- **📍 位置 (Location)**: GMT+8
-- **👨‍💻 角色 (Role)**: 10年全栈开发 / 支付中台与清结算架构师 / "赛博龙虾"饲养员
-- **🎯 目标 (Goal)**: **用 AI 实现超级个体**
-- **💡 哲学 (Philosophy)**: **实战至上，拒绝空谈** —— 不为了技术而技术，先用最小闭环跑通业务，再持续迭代优化成本与效率。
+> 一个人 + AI = AI超级个体
 
-## 🚀 正在折腾 (Current Focus)
+2023年起亲历 AI 技术爆发，All in AI 编程赛道，专注工程化落地与场景实践，持续输出可复用的实战内容。
 
-- **🤖 AI 助手开发**: OpenClaw 深度玩家，正在调教我的硅基搭档 [Lobster Brother (龙虾哥)](https://github.com/liuhedev)
-- **📝 内容创作**: 记录 AI 落地实战与"龙虾哥打工日记"
-- **🛠️ 独立开发**: 探索各种 AI 工具流与自动化工作流
+## 探索路径
 
-## 🔗 连接我 (Connect)
+- **AI 编程启蒙与初探（2023-2024）**：拥抱 GPT、GitHub Copilot、Dify 等工具，打破传统研发思维，完成 AI 辅助研发的落地转型。
+- **AI 研发规范化建设（2025）**：深度落地 Cursor、Claude Code，实践 MCP、Rule、Skill、SDD 等标准化体系，构建可控可复制的 AI 驱动的研发工作流。
+- **Agent 全链路实战落地（2026-至今）**：深入 OpenClaw 生态，推动 AI 编程从单工具提效向全链路 Agent 化升级。
+
+## 武器库
+
+- Agent：OpenClaw、LangChain、LangGraph 等
+- IDE：Cursor、Claude Code、Codex 等
+- Workflow：Dify、Coze、n8n 等
+- 开发语言：Java、Go、Python 等
+
+## 连接我
 
 <div align="left">
   <a href="https://liuhedev.github.io">
-    <img src="https://img.shields.io/badge/Blog-liuhedev.github.io-000000?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/博客-刘贺同学-000000?style=for-the-badge&logo=github&logoColor=white" alt="博客" />
   </a>
-  <img src="https://img.shields.io/badge/WeChat-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat 刘贺同学" />
+  <img src="https://img.shields.io/badge/微信公众号-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" />
   <a href="https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g">
-    <img src="https://img.shields.io/badge/Feishu-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="Feishu Wiki" />
+    <img src="https://img.shields.io/badge/飞书-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="飞书知识库" />
   </a>
 </div>
 
