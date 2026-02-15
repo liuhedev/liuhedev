@@ -27,7 +27,7 @@
   <a href="https://liuhedev.github.io">
     <img src="https://img.shields.io/badge/博客-刘贺同学-000000?style=for-the-badge&logo=github&logoColor=white" alt="博客" />
   </a>
-  <a href="https://liuhedev.github.io/about">
+  <a href="https://github.com/liuhedev/liuhedev/blob/main/wechat-qrcode.png">
     <img src="https://img.shields.io/badge/微信公众号-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" />
   </a>
   <a href="https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g">
