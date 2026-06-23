@@ -16,10 +16,10 @@
 
 ## 武器库
 
-- Agent：OpenClaw、LangChain、LangGraph 等
-- IDE：Cursor、Claude Code、Codex 等
+- Agent：OpenClaw、Hermes 等
+- Agent IDE：Cursor、Claude Code、Codex 等
 - Workflow：Dify、Coze、n8n 等
-- 开发语言：Java、Go、Python 等
+- 开发语言：Java、Go、Python、TypeScript等
 
 ## 连接我
 
