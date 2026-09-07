@@ -21,7 +21,7 @@
 - Workflow：Dify、Coze、n8n 等
 - 开发语言：Java、Go、Python、TypeScript等
 
-## 连接我
+## 找到我
 
 <div align="left">
   <a href="https://liuhedev.github.io">
