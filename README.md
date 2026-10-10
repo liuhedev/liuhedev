@@ -1,39 +1,33 @@
-# 👋 你好，我是刘贺同学
+# 你好，我是刘贺同学 👋
 
-> 10年+ 全栈开发工程师 | 支付系统研发老兵 | 专注 AI 工程化实践与落地场景
+中文 · [English](README.en.md)
 
-## 核心理念
+十多年全栈开发经验，从支付系统研发走向 AI 工程实践。我关注如何让 AI 真正参与日常工作：把想法做成工具，把经验沉淀成 Skills，把一次性的操作变成可复用的工作流。
 
-> 一个人 + AI = AI超级个体
+我相信，一个人 + AI，可以把更多想法变成现实。这里记录我做过的工具、正在探索的方向，以及实践中的收获。
 
-2023年起亲历 AI 技术爆发，All in AI 编程赛道，专注工程化落地与场景实践，持续输出可复用的实战内容。
-
-## 探索路径
-
-- **AI 编程启蒙与初探（2023-2024）**：拥抱 GPT、GitHub Copilot、Dify 等工具，打破传统研发思维，完成 AI 辅助研发的落地转型。
-- **AI 研发规范化建设（2025）**：深度落地 Cursor、Claude Code，实践 MCP、Rule、Skill、SDD 等标准化体系，构建可控可复制的 AI 驱动的研发工作流。
-- **Agent 全链路实战落地（2026-至今）**：深入 OpenClaw 生态，推动 AI 编程从单工具提效向全链路 Agent 化升级。
-
-## 武器库
-
-- Agent：OpenClaw、Hermes 等
-- Agent IDE：Cursor、Claude Code、Codex 等
-- Workflow：Dify、Coze、n8n 等
-- 开发语言：Java、Go、Python、TypeScript等
-
-## 找到我
-
-<div align="left">
-  <a href="https://liuhedev.github.io">
-    <img src="https://img.shields.io/badge/博客-刘贺同学-000000?style=for-the-badge&logo=github&logoColor=white" alt="博客" />
-  </a>
-  <a href="https://github.com/liuhedev/liuhedev/blob/main/wechat-qrcode.png">
-    <img src="https://img.shields.io/badge/微信公众号-刘贺同学-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" />
-  </a>
-  <a href="https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g">
-    <img src="https://img.shields.io/badge/飞书-知识库-3370FF?style=for-the-badge&logo=lark&logoColor=white" alt="飞书知识库" />
-  </a>
-</div>
+✍️ [个人博客](https://liuhedev.github.io/) · 💬 [微信公众号「刘贺同学」](wechat-qrcode.png) · 📚 [飞书知识库](https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g)
 
 ---
-*This README is maintained by my AI assistant, Lobster Brother. 🦞*
+
+## 🛠️ 我做的东西
+
+- **[liuhedev-skills](https://github.com/liuhedev/liuhedev-skills)** — 可复用的 Agent Skills。目前包括高考志愿填报顾问和网页版批量生图，把具体场景中的操作经验交给 Agent 执行。
+- **[photo-time-fixer](https://github.com/liuhedev/photo-time-fixer)** — 从照片文件名解析时间，写入 EXIF 元数据，让照片按正确时间归档。
+- **[刘贺同学的博客](https://liuhedev.github.io/)** — 分享 AI 编程、Agent 工具和工程实践，也给自己的文章留一个可以长期维护的家。
+
+## 🔍 最近在探索
+
+- **Agent 工作流**：从辅助写代码，走向需求、实现、验证与交付的完整过程。
+- **Skills 与知识沉淀**：把经验整理为能被人和 AI 持续使用的内容。
+- **AI 与个人创造**：用更少的重复劳动，做出更多自己想做的东西。
+
+## 🧰 常用工具
+
+**编程** · Java、Go、Python、TypeScript  
+**AI 开发** · Claude Code、Codex、Cursor  
+**Agent 与自动化** · OpenClaw、Hermes、Dify、Coze、n8n
+
+---
+
+欢迎通过公众号交流，或在相关项目里提 Issue / PR。边做边学，持续分享。
