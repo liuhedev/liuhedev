@@ -1,41 +1,27 @@
-<img align="right" src="https://liuhe-personal.abloomvole8.chatgpt.site/assets/avatar-ai-bust.jpg" alt="Liu He" width="160">
-
-# Liu He
+# Hi, I'm Liu He 👋
 
 [中文](README.md) · English
 
-**Full-stack engineer · AI explorer**
+I'm a full-stack developer with over ten years of experience and a background in payment systems. I explore how to put AI and agents into practice, with an interest in both emerging technology and the real business problems it can solve.
 
-I have over a decade of full-stack development experience, working on finance and payment systems. I explore AI and its applications in development, work, learning, and everyday life.
+I believe working with AI expands what one person can create. Here I share my explorations, hands-on practice, and the process of turning ideas into reality.
 
-Here I share technical experiments, tools, and the journey from an idea to something real.
-
-[Website](https://liuhe-personal.abloomvole8.chatgpt.site) · [Article archive](https://liuhedev.github.io/) · [WeChat: 刘贺同学](wechat-qrcode.png) · [Email](mailto:liuhedev@gmail.com)
-
-<br clear="all">
-
-## What I do
-
-- **Business systems**: Payments, clearing, settlement, and finance—from understanding requirements to delivery and production support.
-- **AI in practice**: Exploring agents, automation, and knowledge bases through real tasks.
-- **Making and sharing**: Turning ideas into tools, writing about the practice, and learning by building.
-
-## Technology and tools
-
-Java · Go · Python · TypeScript  
-Codex · Claude Code · Cursor  
-OpenClaw · Hermes · Dify · Coze · n8n
-
-## Practice notes
-
-These articles are in Chinese.
-
-- [A week with Hermes: four automatically created, runnable skills](https://liuhedev.github.io/posts/2026-04-17-hermes-auto-create-4-skills)
-- [Exploring Superpowers for Claude Code](https://liuhedev.github.io/posts/2026-03-27-superpowers-claude-code)
-- [How npx skills works](https://liuhedev.github.io/posts/2026-01-27-npx-skills-core-analysis)
-
-[More articles](https://liuhe-personal.abloomvole8.chatgpt.site/#archive) · [Knowledge base](https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g)
+✍️ [Blog](https://liuhedev.github.io/) · 💬 [WeChat: 刘贺同学](wechat-qrcode.png) · 📚 [Knowledge base](https://my.feishu.cn/wiki/YjJ6wh9v9iLDc2kfvdMcoMsrn2g)
 
 ---
 
-Stay curious. Make ideas real.
+## 🔍 What I'm working on
+
+- **Exploring new technology**: Keeping up with AI and agents, and testing their value through hands-on practice.
+- **Engineering for real use**: Bringing new technology into real business contexts, from working prototypes to reliable delivery.
+- **Personal creativity**: Turning ideas into tools with AI, writing about the practice, and sharing what I learn.
+
+## 🧰 Tools I use
+
+**Languages**: Java, Go, Python, TypeScript  
+**AI development**: Claude Code, Codex, Cursor  
+**Agents and automation**: OpenClaw, Hermes, Dify, Coze, n8n
+
+---
+
+Let's connect through WeChat, or open an issue or pull request in a relevant project. Learning by building, and sharing along the way.
