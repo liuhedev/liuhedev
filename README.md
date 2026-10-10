@@ -10,12 +10,6 @@
 
 ---
 
-## 🛠️ 我做的东西
-
-- **[liuhedev-skills](https://github.com/liuhedev/liuhedev-skills)** — 可复用的 Agent Skills。目前包括高考志愿填报顾问和网页版批量生图，把具体场景中的操作经验交给 Agent 执行。
-- **[photo-time-fixer](https://github.com/liuhedev/photo-time-fixer)** — 从照片文件名解析时间，写入 EXIF 元数据，让照片按正确时间归档。
-- **[刘贺同学的博客](https://liuhedev.github.io/)** — 分享 AI 编程、Agent 工具和工程实践，也给自己的文章留一个可以长期维护的家。
-
 ## 🔍 正在实践
 
 - **前沿探索**：持续跟进 AI 与 Agent 技术，在动手实践中判断价值。

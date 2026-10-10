@@ -10,12 +10,6 @@ I believe one person working with AI can bring more ideas to life. This is where
 
 ---
 
-## 🛠️ Things I've built
-
-- **[liuhedev-skills](https://github.com/liuhedev/liuhedev-skills)** — Reusable agent skills, including a Chinese university application advisor and browser-based batch image generation. Practical steps packaged for agents to follow.
-- **[photo-time-fixer](https://github.com/liuhedev/photo-time-fixer)** — Parse timestamps from photo filenames and write them into EXIF metadata to restore chronological organization.
-- **[My blog](https://liuhedev.github.io/)** — Notes on AI coding, agent tools, and engineering practice. A lasting home for my writing.
-
 ## 🔍 What I'm working on
 
 - **Exploring new technology**: Keeping up with AI and agents, and testing their value through hands-on practice.
