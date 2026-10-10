@@ -8,7 +8,7 @@ Full-stack engineer with 10+ years of experience · AI builder
 
 Experienced in payment and finance systems, focused on software engineering, AI agents, and putting ideas into practice—using technology to solve real problems.
 
-[Website](https://liuhe-personal.abloomvole8.chatgpt.site) · [Article archive](https://liuhedev.github.io/) · [WeChat: 刘贺同学](wechat-qrcode.png) · [Email](mailto:liuhedev@gmail.com)
+[Website](https://liuhe.abloomvole8.chatgpt.site) · [Article archive](https://liuhedev.github.io/) · [WeChat: 刘贺同学](wechat-qrcode.png) · [Email](mailto:liuhedev@gmail.com)
 
 ### Areas of practice
 
