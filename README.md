@@ -1,10 +1,10 @@
-# Liu He
+# 刘贺 · Liu He
 
 中文 · [English](README.en.md)
 
 ## Software Engineer & AI Builder
 
-10 年+全栈工程师 · AI 构建者
+10 年+全栈工程师 · AI Builder
 
 深耕支付与财务系统，专注软件工程、AI Agent 与工程化实践，让技术真正解决问题。
 
