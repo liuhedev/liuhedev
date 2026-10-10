@@ -4,9 +4,9 @@
 
 ## Software Engineer & AI Builder
 
-全栈工程师 · AI 构建者
+10 年+全栈工程师 · AI 构建者
 
-专注软件工程、AI Agent 与工程化实践，让技术真正解决问题。
+深耕支付与财务系统，专注软件工程、AI Agent 与工程化实践，让技术真正解决问题。
 
 [个人网站](https://liuhe-personal.abloomvole8.chatgpt.site) · [文章归档](https://liuhedev.github.io/) · [微信公众号「刘贺同学」](wechat-qrcode.png) · [邮件](mailto:liuhedev@gmail.com)
 
