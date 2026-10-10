@@ -16,11 +16,11 @@ I believe one person working with AI can bring more ideas to life. This is where
 - **[photo-time-fixer](https://github.com/liuhedev/photo-time-fixer)** — Parse timestamps from photo filenames and write them into EXIF metadata to restore chronological organization.
 - **[My blog](https://liuhedev.github.io/)** — Notes on AI coding, agent tools, and engineering practice. A lasting home for my writing.
 
-## 🔍 What I'm exploring
+## 🔍 What I'm working on
 
-- **Agent workflows**: Moving from coding assistance toward a complete process of requirements, implementation, verification, and delivery.
-- **Skills and knowledge**: Making experience useful to both people and AI over time.
-- **AI and personal creativity**: Spending less time on repetitive work and bringing more ideas to life.
+- **Exploring new technology**: Keeping up with AI and agents, and testing their value through hands-on practice.
+- **Engineering for real use**: Bringing new technology into real business contexts, from working prototypes to reliable delivery.
+- **Personal creativity**: Turning ideas into tools with AI, writing about the practice, and sharing what I learn.
 
 ## 🧰 Tools I use
 
