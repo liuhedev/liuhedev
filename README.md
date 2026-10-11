@@ -27,6 +27,6 @@ OpenClaw · Hermes · Dify · Coze · n8n
 
 ### 相关链接
 
-[个人网站](https://liuhe.abloomvole8.chatgpt.site) · [微信公众号「刘贺同学」](wechat-qrcode.png) · [邮件](mailto:liuhedev@gmail.com)
+[个人网站](https://liuhe.abloomvole8.chatgpt.site) · [微信公众号「刘贺同学」](https://raw.githubusercontent.com/liuhedev/liuhedev/main/wechat-qrcode.png) · [邮件](mailto:liuhedev@gmail.com)
 
 欢迎在相关项目里提 Issue / PR。
